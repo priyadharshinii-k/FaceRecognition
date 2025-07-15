@@ -1,4 +1,4 @@
-#  Face Recognition System using OpenCV and Tkinter
+#  Face Recognition System using LBPH Algorithm
 
 A Python-based face recognition project that adds an extra layer of security during online transactions. The system uses OpenCV for facial detection and recognition, along with a Tkinter-based GUI to simulate transaction outcomes.
 
